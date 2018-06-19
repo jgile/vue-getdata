@@ -1,6 +1,6 @@
 {
   "name": "vue-getdata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Vue.js mixins to get data, metadata, and more from ajax responses.",
   "main": "dist/index.js",
   "jsnext:main": "dist/index.js",
